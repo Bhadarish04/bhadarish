@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
- prinf("hello beautiful world");
+ prinf("yogi will be sanyasi");
 }
